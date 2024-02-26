@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BUdpnoIfXhpwdjuDkX+OYBXU07B/8xY/YT0tdka0sec=",
+  "Source": "generate.app.name.Api",
+  "BasePath": "_content/generate.app.name.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

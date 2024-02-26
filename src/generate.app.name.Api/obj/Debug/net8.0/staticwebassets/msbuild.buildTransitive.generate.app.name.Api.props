@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/generate.app.name.Api.props" />
+</Project>

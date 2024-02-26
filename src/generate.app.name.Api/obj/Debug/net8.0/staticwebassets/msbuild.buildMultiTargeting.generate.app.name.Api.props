@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/generate.app.name.Api.props" />
+</Project>

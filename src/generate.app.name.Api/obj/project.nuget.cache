@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+3vRo9jvkwAs9gS0Nvp6rv1SKqZzF1vM0fJRxd1AebucipGVLetnNesesDTSsa+D6FbNL9Wb7TJ2vsjDW2dW9A==",
+  "success": true,
+  "projectFilePath": "/home/bruno/projects/generate-app-name/src/generate.app.name.Api/generate.app.name.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/bruno/.nuget/packages/bogus/35.4.0/bogus.35.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
